@@ -17,10 +17,6 @@ This project implements an 8-bit binary adder and subtractor using 2’s complem
   * B is inverted
   * 1 is added via carry-in
 
-## 🧮 Equation
-
-Result = A + (B ⊕ Control) + Control
-
 ## 🛠️ Tools Used
 
 * Verilog HDL
